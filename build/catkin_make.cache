@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/ros-kin/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/ros-kin/install -G Unix Makefiles
